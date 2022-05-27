@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+}
+.content {
+    max-width: 600px;
+    margin: auto;
+    padding: 4cm;
+  }
+.column {
+    float: left;
+    width: 50%;
+}
+.column > h1 {
+    text-align: left;
+    color:#289BF0;
+    font-size: 57pt;
+    font-family: Impact, 'Arial Narrow Bold';
+    margin-bottom: -20pt;
+}
+.column > h2 {
+    text-align: left;
+    color:#5F5F5F;
+    font-size: 28pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
